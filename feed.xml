@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Creative Writing Final</title>
-    <link href="https://AidenSchramm.github.io/creativewritingfinal/feed.xml" rel="self" />
-    <link href="https://AidenSchramm.github.io/creativewritingfinal" />
+    <link href="https://aidenschramm.com/creativewritingfinal/feed.xml" rel="self" />
+    <link href="https://aidenschramm.com/creativewritingfinal" />
     <updated>2021-05-21T08:33:03-05:00</updated>
     <author>
         <name>Aiden Schramm</name>
     </author>
-    <id>https://AidenSchramm.github.io/creativewritingfinal</id>
+    <id>https://aidenschramm.com/creativewritingfinal</id>
 
     <entry>
         <title>Journals</title>
         <author>
             <name>Aiden Schramm</name>
         </author>
-        <link href="https://AidenSchramm.github.io/creativewritingfinal/journals.html"/>
-        <id>https://AidenSchramm.github.io/creativewritingfinal/journals.html</id>
+        <link href="https://aidenschramm.com/creativewritingfinal/journals.html"/>
+        <id>https://aidenschramm.com/creativewritingfinal/journals.html</id>
 
         <updated>2021-05-21T08:33:03-05:00</updated>
             <summary>
@@ -65,8 +65,8 @@
         <author>
             <name>Aiden Schramm</name>
         </author>
-        <link href="https://AidenSchramm.github.io/creativewritingfinal/the-impossible-burger.html"/>
-        <id>https://AidenSchramm.github.io/creativewritingfinal/the-impossible-burger.html</id>
+        <link href="https://aidenschramm.com/creativewritingfinal/the-impossible-burger.html"/>
+        <id>https://aidenschramm.com/creativewritingfinal/the-impossible-burger.html</id>
 
         <updated>2021-05-21T08:18:22-05:00</updated>
             <summary>
@@ -93,8 +93,8 @@
         <author>
             <name>Aiden Schramm</name>
         </author>
-        <link href="https://AidenSchramm.github.io/creativewritingfinal/everything-i-am.html"/>
-        <id>https://AidenSchramm.github.io/creativewritingfinal/everything-i-am.html</id>
+        <link href="https://aidenschramm.com/creativewritingfinal/everything-i-am.html"/>
+        <id>https://aidenschramm.com/creativewritingfinal/everything-i-am.html</id>
 
         <updated>2021-05-21T08:17:08-05:00</updated>
             <summary>
